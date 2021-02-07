@@ -1,6 +1,5 @@
 package com.example.spring.services;
 
-import com.example.spring.model.Pet;
 import com.example.spring.model.Vet;
 
 import java.util.Set;
